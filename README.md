@@ -6,8 +6,8 @@ UB Hacking Project 2020 (University at Buffalo Hackathon)
 
 ## Developers:
 
-Shreevardhan Shah
-Rohitashwa Pareek
+- Shreevardhan Shah
+- Rohitashwa Pareek
 
 ## About the bot
 
