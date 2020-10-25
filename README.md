@@ -1,6 +1,6 @@
 #Find Plasma Online
 ##About
-Hack at home (Brown University Hackathon) Project
+UB Hacking Project 2020 (University at Buffalo Hackathon)
 
 ##Developers:
 
